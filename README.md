@@ -94,12 +94,14 @@ Then run `./train_xxx_xxx.sh` in the terminal:
 
 If RCAR is useful for your research, please cite the following paper:
 
-    @article{Diao2023RCAR,
-      title={Plug-and-Play Regulators for Image-Text Matching},
-      author={Diao, Haiwen and Zhang, Ying and Liu, Wei and Ruan, Xiang and Lu, Huchuan},
-      journal={arXiv: 2303.13371},
-      year={2023}
-    }
+      @article{Diao2023RCAR,
+         author={Diao, Haiwen and Zhang, Ying and Liu, Wei and Ruan, Xiang and Lu, Huchuan},
+         journal={IEEE Transactions on Image Processing}, 
+         title={Plug-and-Play Regulators for Image-Text Matching}, 
+         year={2023},
+         volume={32},
+         pages={2322-2334}
+      }
 
 ## License
 
