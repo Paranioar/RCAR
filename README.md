@@ -1,5 +1,5 @@
 # RCAR
-*PyTorch implementation for TIP2023 paper of [**“Plug-and-Play Regulators for Image-Text Matching”**](https://arxiv.org/abs/2303.13371) (Finished in 2021).* 
+*PyTorch implementation for TIP2023 paper of [**“Plug-and-Play Regulators for Image-Text Matching”**](https://arxiv.org/abs/2303.13371).* 
 
 *It is built on top of the [SGRAF](https://github.com/Paranioar/SGRAF), [GPO](https://github.com/woodfrog/vse_infty) and [Cross-modal_Retrieval_Tutorial](https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial).* 
 
