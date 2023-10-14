@@ -120,7 +120,7 @@ def collate_fn(data):
     # Merge images
     images = torch.stack(images, 0)
 
-    # Merget captions
+    # Merge captions
     lengths = torch.LongTensor([len(cap) for cap in captions])
     targets = torch.zeros(len(captions), max(lengths)).long()
     for i, cap in enumerate(captions):
