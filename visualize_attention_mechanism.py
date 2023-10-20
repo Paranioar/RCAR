@@ -77,7 +77,7 @@ if __name__ == '__main__':
     root_image_id = 'data/f30k/precomp/test_ids.txt'
     root_caption = 'data/f30k/precomp/test_caps.txt'
 
-    # load from https://github.com/woodfrog/vse_infty/blob/master/data/f30k/id_mapping.json
+    # load from https://github.com/Paranioar/RCAR/tree/main/data/f30k/id_mapping.json
     root_image_id_mapping = 'data/f30k/id_mapping.json'
 
     # load from https://drive.google.com/file/d/1ZVLIN7uSh3dqYAEldelyYF2ei9vicJvZ/view
