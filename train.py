@@ -1,3 +1,12 @@
+"""
+# Pytorch implementation for TIP2023 paper from
+# https://arxiv.org/abs/2303.13371.
+# "Plug-and-Play Regulators for Image-Text Matching"
+# Haiwen Diao, Ying Zhang, Wei Liu, Xiang Ruan, Huchuan Lu
+#
+# Writen by Haiwen Diao, 2023
+"""
+
 """Training script"""
 import os
 import time
